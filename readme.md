@@ -1,137 +1,18 @@
-<div align="center">
+# 💫 About Me:
+🔭 **I'm currently working on:** Atorix internship projects<br>🌱 **I'm currently learning:** Next.js<br>👯 **I'm looking to collaborate on:** React js, next js projects <br>🤔 **I'm looking for help with:** next js <br>💬 **Ask me about:** Collaboration, Tech Support, Web Development<br>📫 **How to reach me:** alkeshmahamune12@gmail.com<br>😄 **Pronouns:** alkesh<br>⚡ **Fun fact:** I love tech, and tech loves me! 🚀<br>
 
-# Alkesh Mahamune
-### Full-Stack Developer (MERN) — Building Toward AI/GenAI Engineering
 
-Full-stack developer building production-style web applications with React, Node.js, and MongoDB — currently deepening skills in AI-powered features and LLM integration.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alkeshmahamune) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alkeshmahamune) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alkeshmahamune12@gmail.com) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alkeshmahamune)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alkeshmahamune12@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)]([ADD PORTFOLIO LINK])
-
-</div>
-
----
-
-## About Me
-
-Jr. Web Developer at **Atorix IT Solutions**, Pune, working on production internal tools with Next.js, React, and Tailwind CSS. Currently completing an MCA at Pimpri Chinchwad University, Pune (BCA from Shri Shivaji Science College, Nagpur).
-
-I build full-stack products end-to-end — auth, role-based access, dashboards, real-time features — and I'm now extending that into AI-powered application features (OpenAI API integration, and expanding into RAG/LLM-backed tools).
-
-## What I Build
-
-- Role-based, multi-actor web platforms (distinct user types, permissions, verified content)
-- Dashboards and admin panels — data tables, pipelines, modals, charts
-- Real-time features (live updates, booking/status flows)
-- AI-assisted application features layered onto standard full-stack architecture
-
-## Tech Stack
-
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Redux, Zustand, React Hook Form, Framer Motion
-**Backend:** Node.js, Express.js
-**Database:** MongoDB, MySQL
-**APIs & Tools:** REST APIs, Socket.io, OpenAI API, Zod, Chart.js
-**Deployment:** Vercel, Netlify, Render
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=alkeshmahamune&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=alkeshmahamune&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=alkeshmahamune&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=alkeshmahamune&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Featured Projects
-
-### HerbToolkit — AI-Assisted Recipe Platform
-
-An AI-powered recipe management system built around a three-actor trust model: **User → Influencer → Doctor**, where doctor-verified recipes are surfaced distinctly from general content.
-
-**What it does:** Lets users discover and save recipes, with a verification layer so health-relevant recipes carry doctor sign-off rather than anonymous credibility.
-
-**My contribution:** Designed the three-role access model, integrated the OpenAI API for AI-assisted recipe features, and produced the full system design (UML use-case, class, sequence, and ER diagrams, plus system architecture).
-
-**Technical highlights:**
-- Role-based access control across three distinct actor types
-- OpenAI API integration for AI-assisted functionality
-- Full architecture documentation (UML + ER + system diagrams) before implementation
-- Rebuilt core frontend components to handle both herbal and standard recipe categories with conditional rendering
-
-**Tech:** `React` `Node.js` `Express` `MongoDB` `OpenAI API`
-**Links:** Live Demo: `[ADD LIVE DEMO LINK]` · Source: `[ADD REPO LINK]`
-
----
-
-### MyRide — Real-Time Cab Booking Platform
-
-A real-time cab booking application handling live ride status and coordination between riders and drivers.
-
-**What it does:** Connects riders with available drivers and keeps booking state updated in real time.
-
-**My contribution:** `[ADD SPECIFIC CONTRIBUTION DETAILS]`
-
-**Tech:** `React` `Node.js` `Express` `MongoDB` `Socket.io`
-**Links:** Live Demo: `[ADD LIVE DEMO LINK]` · Source: `[ADD REPO LINK]`
-
----
-
-### Manomilan — Multi-Role Matrimony Platform
-
-A matrimony platform built around multiple distinct user roles rather than a single generic user type.
-
-**What it does:** Supports different participant roles within the matchmaking flow, each with their own view and permissions.
-
-**My contribution:** `[ADD SPECIFIC CONTRIBUTION DETAILS]`
-
-**Tech:** `React` `Node.js` `Express` `MongoDB`
-**Links:** Live Demo: `[ADD LIVE DEMO LINK]` · Source: `[ADD REPO LINK]`
-
----
-
-### Other Work
-
-- **Smart Leads CRM** — CRM dashboard built with Vite, React, TypeScript, Zustand, React Hook Form, and Zod
-- **HR/Admin Dashboard** — Next.js dashboard with job listings, hiring pipeline views, stat cards, charts, and modals
-- **Personal Portfolio** — Next.js site with a Spline 3D hero, scroll-triggered Framer Motion animations, full mobile responsiveness
-
----
-
-## What I Bring
-
-- Building responsive, production-style interfaces with React and Next.js
-- Designing role-based access systems for multi-actor applications
-- Integrating REST APIs and third-party services (including the OpenAI API)
-- Working across the stack — from MongoDB schema design to frontend state management
-- Debugging and extending existing codebases, not just greenfield builds
-- Producing system design documentation (UML, ER diagrams) before writing code
-
-## Currently Building
-
-Working on internal tools at Atorix IT Solutions (Next.js/React/Tailwind), and preparing an original MERN + AI concept for an upcoming pitch competition. Direction: **Full-Stack → AI Integration → GenAI.**
-
-## Learning / Growth
-
-**Experienced with:** React, Next.js, Node.js, Express, MongoDB, REST APIs, role-based auth
-**Currently learning:** Generative AI & LLM application patterns, RAG, system design, DSA, cloud deployment at scale
-
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=alkeshmahamune&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![Streak](https://streak-stats.demolab.com/?user=alkeshmahamune&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=alkeshmahamune&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## Open Source & Collaboration
-
-Interested in eventually open-sourcing developer tools and practical AI-integration utilities — small, focused tools rather than broad frameworks. Open to collaborating on full-stack or AI-feature work with other developers.
-
-## Let's Build Something
-
-I'm open to:
-- Full-stack development roles
-- Product engineering opportunities
-- AI-powered web application projects
-- Collaboration on open-source tooling
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alkeshmahamune)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alkeshmahamune12@gmail.com)
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=alkeshmahamune&icon=0&color=0)
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
