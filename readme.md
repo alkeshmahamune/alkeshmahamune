@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 **I'm currently working on:** WorkProof<br>🌱 **I'm currently learning:** AI Engineering & Generative AI <br>👯 **I'm looking to collaborate on:** Full Stack Projects & AI Projects <br>🤔 **I'm looking for help with:** AI Engineering & Generative AI <br>💬 **Ask me about:** Collaboration, Tech Support & Web Development <br>📫 **How to reach me:** [alkeshmahamune12@gmail.com](mailto:alkeshmahamune12@gmail.com)<br>😄 **Pronouns:** alkesh<br>⚡ **Fun fact:** I started by building websites. Now I'm trying to teach them how to think. 🚀<br>
+🔭 **I'm currently working on:** WorkProof — an AI-powered hiring assessment platform<br>🌱 **I'm currently learning:** AI Engineering & Generative AI <br>👨‍💻 **I'm building with:** Next.js, React, Node.js, Express, MongoDB & REST APIs <br>👯 **I'm looking to collaborate on:** Full Stack Projects & AI Projects <br>💡 **I'm interested in:** AI × Web Development, scalable applications & real-world problem solving <br>💬 **Ask me about:** Web Development, Full-Stack Projects & AI Integration <br>📫 **How to reach me:** [alkeshmahamune12@gmail.com](mailto:alkeshmahamune12@gmail.com)<br>😄 **Pronouns:** alkesh<br>⚡ **Fun fact:** I started by building websites. Now I'm trying to teach them how to think. 🚀<br>
+
 
 
 
