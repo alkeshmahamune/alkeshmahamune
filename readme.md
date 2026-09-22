@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 **I'm currently working on:** Atorix internship projects<br>🌱 **I'm currently learning:** Next.js<br>👯 **I'm looking to collaborate on:** React js, next js projects <br>🤔 **I'm looking for help with:** next js <br>💬 **Ask me about:** Collaboration, Tech Support, Web Development<br>📫 **How to reach me:** alkeshmahamune12@gmail.com<br>😄 **Pronouns:** alkesh<br>⚡ **Fun fact:** I love tech, and tech loves me! 🚀<br>
+🔭 **I'm currently working on:** WorkProof<br>🌱 **I'm currently learning:** AI Engineering & Generative AI <br>👯 **I'm looking to collaborate on:** Full Stack Projects & AI Projects <br>🤔 **I'm looking for help with:** AI Engineering & Generative AI <br>💬 **Ask me about:** Collaboration, Tech Support & Web Development <br>📫 **How to reach me:** [alkeshmahamune12@gmail.com](mailto:alkeshmahamune12@gmail.com)<br>😄 **Pronouns:** alkesh<br>⚡ **Fun fact:** I started by building websites. Now I'm trying to teach them how to think. 🚀<br>
+
 
 
 ## 🌐 Socials:
